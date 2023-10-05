@@ -1,4 +1,4 @@
-FROM openjdk:17.0.1-jdk
+FROM openjdk:17.0.8.1-jdk
 
 ARG JAR_FILE=./build/libs/ClientViewServer-0.0.1-SNAPSHOT.jar
 
